@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ScheduleOptions</members>
+        <members>ctr_WhyNot</members>
+        <members>QWhyNot</members>
+        <members>ScheduleOptions</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>SA_FSLRuleAnalyzer</members>
+        <members>WO_FSLRuleAnalyzer</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Why_Not_Settings__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Why_Not_Settings__mdt.Alt_Policy_1_Label__c</members>
+        <members>Why_Not_Settings__mdt.Alt_Policy_2_Label__c</members>
+        <members>Why_Not_Settings__mdt.Alt_Policy_3_Label__c</members>
+        <members>Why_Not_Settings__mdt.Alt_Policy_4_Label__c</members>
+        <members>Why_Not_Settings__mdt.Availability_Policy_Label__c</members>
+        <members>Why_Not_Settings__mdt.Main_Policy_Label__c</members>
+        
+        <members>ServiceAppointment.Why_Not_Alt1_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_Alt1_Count__c</members>
+        <members>ServiceAppointment.Why_Not_Alt2_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_Alt2_Count__c</members>
+        <members>ServiceAppointment.Why_Not_Alt3_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_Alt3_Count__c</members>
+        <members>ServiceAppointment.Why_Not_Alt4_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_Alt4_Count__c</members>
+
+        <members>ServiceAppointment.Why_Not_Last_Run__c</members>
+        <members>ServiceAppointment.Why_Not_Main_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_Main_Count__c</members>
+        <members>ServiceAppointment.Why_Not_NoAvail_Candidates__c</members>
+        <members>ServiceAppointment.Why_Not_NoAvail_Count__c</members>
+
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Why_Not_Settings__mdt-Why Not Settings Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>SLDSLoadingGif</members>
+        <name>StaticResource</name>
+    </types>
+    <version>48.0</version>
+</Package>
