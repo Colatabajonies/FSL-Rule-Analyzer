@@ -4,8 +4,12 @@
         <members>ScheduleOptions</members>
         <members>ctr_WhyNot</members>
         <members>QWhyNot</members>
-        <members>ScheduleOptions</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>WorkOrder.FSL_Rule_Analyzer</members>
+        <members>ServiceAppointment.FSL_Rule_Analyzer</members>
+        <name>QuickAction</name>
     </types>
     <types>
         <members>SA_FSLRuleAnalyzer</members>
@@ -15,6 +19,10 @@
     <types>
         <members>Why_Not_Settings__mdt</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Why_Not_Settings.main</members>
+        <name>CustomMetadata</name>
     </types>
     <types>
         <members>Why_Not_Settings__mdt.Alt_Policy_1_Label__c</members>
